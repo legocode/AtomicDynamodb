@@ -1,0 +1,29 @@
+{
+  "name": "AtomicDynamodb",
+  "version": "1.0.0",
+  "description": "The POC to test if the conditional update is meeting the requirement of atomic dynamodb",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonli/AtomicDynamodb"
+  },
+  "keywords": [
+    "Dynamodb"
+  ],
+  "author": "Leon Li <lilei.leon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonli/AtomicDynamodb/issues"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.4.0",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
