@@ -2,7 +2,7 @@
 
 To test this repository, simply `npm install && npm start`.
 
-Create you dynamodb demo table `User`.
+Create your dynamodb demo table `User`.
 
 ```
 {
